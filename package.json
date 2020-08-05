@@ -1,0 +1,11 @@
+{
+  "name": "wyyx-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zxp-javascript <956938718@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0"
+  }
+}
